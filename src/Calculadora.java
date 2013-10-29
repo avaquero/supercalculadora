@@ -16,6 +16,7 @@ public class Calculadora {
         	numero = llegir.nextLine();
         }
         
+        //Comentari branca
         //Imprimirnumero
         System.out.println(numero);
 	}
